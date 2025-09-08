@@ -1,6 +1,6 @@
 <!-- Banner or Profile Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b5876,100:4e4376&height=200&section=header&text=legiahan2705%20&fontSize=45&fontAlignY=40&desc=Aspiring%20Tester%20%7C%20UI%2FUX%20Enthusiast%20%7C%20CS%20Student&descAlignY=65&descAlign=50" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b5876,100:4e4376&height=200&section=header&text=LeGiaHan%20&fontSize=45&fontAlignY=40&desc=Aspiring%20Tester%20%7C%20UI%2FUX%20Enthusiast%20%7C%20CS%20Student&descAlignY=65&descAlign=50" alt="header"/>
 </p>
 
 <p align="center">
