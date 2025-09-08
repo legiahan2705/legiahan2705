@@ -47,6 +47,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/UI/UX-ff69b4" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38BDF8?logo=tailwind-css&logoColor=white" />
 </p>
 
 - **Manual & Automation Testing:** Test Case design, API Testing, Postman, Selenium, Newman (learning)
