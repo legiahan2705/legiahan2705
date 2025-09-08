@@ -10,7 +10,7 @@
 </p>
 
 
-## 👋 Hi, I'm legiahan2705!
+## 👋 Hi, I'm Le Gia Han!
 
 🎓 **Final-year Computer Science student**  
 🔎 Aspiring **Tester Intern** | Future **Business Analyst (BA)**  
