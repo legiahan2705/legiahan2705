@@ -33,7 +33,7 @@
   </a>
 </p>
 
-> Automated system for API performance testing using Postman, Newman, and Selenium.
+> Automated system for API performance testing
 
 
 ### 💡 Core Skills
