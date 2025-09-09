@@ -62,6 +62,10 @@
   <a href="https://www.linkedin.com/in/legiahan2705/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
   </a>
+   &nbsp;&nbsp;
+  <a href="https://legiahan.my.canva.site/">
+    <img src="https://img.shields.io/badge/Portfolio-orange?logo=canva&logoColor=white" />
+  </a>
 </p>
 
 
