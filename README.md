@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fbc2eb,50:a1c4fd,100:c2e9fb&height=220&section=header&text=Le%20Gia%20Han&fontSize=56&fontAlignY=38&fontColor=5a4a6a&desc=Business%20Analyst%20%7C%20QA%20Tester%20%7C%20CS%20Student&descAlignY=63&descAlign=50&descColor=6a8fbf&animation=fadeIn" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fbc2eb,50:a1c4fd,100:c2e9fb&height=220&section=header&text=Le%20Gia%20Han&fontSize=56&fontAlignY=38&fontColor=ffffff&desc=Business%20Analyst%20%7C%20CS%20Student&descAlignY=63&descAlign=50&descColor=6a8fbf&animation=fadeIn" alt="header"/>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 <br/>
 
 <p align="center">
-  🎓 Final-year <strong>Computer Science</strong> student &nbsp;&nbsp;·&nbsp;&nbsp;
+  🎓 <strong>Computer Science</strong> student &nbsp;&nbsp;·&nbsp;&nbsp;
   📊 Aspiring <strong>Business Analyst</strong> &nbsp;&nbsp;·&nbsp;&nbsp;
   🔎 Experienced <strong>Manual Tester</strong>
 </p>
