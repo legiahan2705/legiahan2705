@@ -81,8 +81,6 @@ Throughout my studies, I've built systems end-to-end: designed databases, develo
 
 <h2 align="center">🌟 Projects</h2>
 
-<br/>
-
 <h3 align="center">Smart Pharmacy Chatbot &nbsp;—&nbsp; Research Project</h3>
 
 <p align="center">
