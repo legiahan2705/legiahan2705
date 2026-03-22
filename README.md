@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fbc2eb,50:a1c4fd,100:c2e9fb&height=220&section=header&text=Le%20Gia%20Han&fontSize=56&fontAlignY=38&fontColor=ffffff&desc=Business%20Analyst%20%7C%20CS%20Student%20%7C%20QA%20Tester&descAlignY=63&descAlign=50&descColor=6a8fbf&animation=fadeIn" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fbc2eb,50:a1c4fd,100:c2e9fb&height=220&section=header&text=Le%20Gia%20Han&fontSize=56&fontAlignY=38&fontColor=ffffff&desc=Business%20Analyst%20%7C%20Computer%20Science%20Graduate&descAlignY=63&descAlign=50&descColor=6a8fbf&animation=fadeIn" alt="header"/>
 </p>
 
 <p align="center">
@@ -17,9 +17,8 @@
 <br/>
 
 <p align="center">
-  🎓 <strong>Computer Science</strong> student &nbsp;·&nbsp;
+  🎓 <strong>Computer Science Graduate</strong> &nbsp;·&nbsp;
   📊 Aspiring <strong>Business Analyst</strong> &nbsp;·&nbsp;
-  🔎 Experienced <strong>Manual Tester</strong> &nbsp;·&nbsp;
   🤖 AI Enthusiast
 </p>
 
@@ -27,14 +26,14 @@
 
 <h2 align="center">🌸 About Me</h2>
 
-<p align="center">
-I'm a <strong>Computer Science student</strong> with a well-rounded foundation — from algorithms and data structures to web development, mobile apps, software testing, and AI.<br/><br/>
+<p>
+I'm a <strong>Computer Science student</strong> with a well-rounded foundation — from algorithms and data structures to web development, mobile apps, software testing, and AI.
 
-Throughout my studies, I've built systems end-to-end: designed databases, developed web & app interfaces, written test cases, trained ML models, and even built a <strong>smart chatbot</strong> as a research project.<br/><br/>
+Throughout my studies, I've built systems end-to-end: designed databases, developed web & app interfaces, written test cases, trained ML models, and even built a <strong>smart chatbot</strong> as a research project.
 
-🎯 <strong>Currently</strong>, I'm applying that technical depth as a <strong>Business Analyst collaborator</strong> in a real-world <strong>Smart Manufacturing</strong> project at a company — working on requirements, documentation, and cross-team collaboration.<br/><br/>
+<strong>Currently</strong>, I'm applying that technical depth as a <strong>Business Analyst collaborator</strong> in a real-world <strong>Smart Manufacturing</strong> project at a company — working on requirements, documentation, and cross-team collaboration.
 
-🚀 <strong>My goal</strong> is to become a professional <strong>Business Analyst</strong> who bridges the gap between business needs and technical execution — grounded in a real understanding of how systems are actually built.<br/><br/>
+<strong>My goal</strong> is to become a professional <strong>Business Analyst</strong> who bridges the gap between business needs and technical execution — grounded in a real understanding of how systems are actually built.
 
 🌱 <strong>In the future</strong>, I aim to grow into a BA who doesn't just write requirements, but helps shape impactful products — with clarity, empathy, and technical credibility.
 </p>
@@ -84,7 +83,7 @@ Throughout my studies, I've built systems end-to-end: designed databases, develo
 
 <br/>
 
-<h3 align="center">🤖 Smart Pharmacy Chatbot &nbsp;—&nbsp; Research Project</h3>
+<h3 align="center">Smart Pharmacy Chatbot &nbsp;—&nbsp; Research Project</h3>
 
 <p align="center">
   <a href="https://github.com/legiahan2705/Smart-pharmacy-chatbot">
@@ -102,7 +101,7 @@ Throughout my studies, I've built systems end-to-end: designed databases, develo
 
 <br/>
 
-<h3 align="center">⚡ Automated API Performance Testing System</h3>
+<h3 align="center">Automated API Performance Testing System</h3>
 
 <p align="center">
   <a href="https://github.com/legiahan2705/AUTOMATED-API-PERFORMANCE-TESTING-SYSTEM">
@@ -120,20 +119,20 @@ Throughout my studies, I've built systems end-to-end: designed databases, develo
 
 <h2 align="center">🛠️ Business Analyst Skills</h2>
 
-<h3 align="center">📋 Analysis & Documentation</h3>
+<h3 align="center">Analysis & Documentation</h3>
 <p align="center">
   BRD &nbsp;·&nbsp; FRS &nbsp;·&nbsp; SRS &nbsp;·&nbsp; User Stories &nbsp;·&nbsp; Acceptance Criteria<br/>
   Stakeholder Management &nbsp;·&nbsp; RACI Matrix &nbsp;·&nbsp; Gap Analysis (As-Is / To-Be)<br/>
   Requirements Elicitation — Interview, Workshop & Survey
 </p>
 
-<h3 align="center">🗺️ Modeling & Diagramming</h3>
+<h3 align="center">Modeling & Diagramming</h3>
 <p align="center">
   BPMN &nbsp;·&nbsp; Business Process Flow &nbsp;·&nbsp; Use Case Diagram<br/>
   Activity Diagram &nbsp;·&nbsp; Sequence Diagram &nbsp;·&nbsp; DFD &nbsp;·&nbsp; Wireframe
 </p>
 
-<h3 align="center">🤝 Soft Skills</h3>
+<h3 align="center">Soft Skills</h3>
 <p align="center">
   Stakeholder Communication &nbsp;·&nbsp; Critical Thinking &nbsp;·&nbsp; Structured Writing<br/>
   Problem Framing &nbsp;·&nbsp; Agile / Scrum &nbsp;·&nbsp; Cross-team Facilitation
