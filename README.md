@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fbc2eb,50:a1c4fd,100:c2e9fb&height=220&section=header&text=Le%20Gia%20Han&fontSize=56&fontAlignY=38&fontColor=ffffff&desc=Business%20Analyst%20%7C%20CS%20Student&descAlignY=63&descAlign=50&descColor=6a8fbf&animation=fadeIn" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fbc2eb,50:a1c4fd,100:c2e9fb&height=220&section=header&text=Le%20Gia%20Han&fontSize=56&fontAlignY=38&fontColor=ffffff&desc=Business%20Analyst%20%7C%20CS%20Student%20%7C%20QA%20Tester&descAlignY=63&descAlign=50&descColor=6a8fbf&animation=fadeIn" alt="header"/>
 </p>
 
 <p align="center">
@@ -17,9 +17,10 @@
 <br/>
 
 <p align="center">
-  🎓 <strong>Computer Science</strong> student &nbsp;&nbsp;·&nbsp;&nbsp;
-  📊 Aspiring <strong>Business Analyst</strong> &nbsp;&nbsp;·&nbsp;&nbsp;
-  🔎 Experienced <strong>Manual Tester</strong>
+  🎓 <strong>Computer Science</strong> student &nbsp;·&nbsp;
+  📊 Aspiring <strong>Business Analyst</strong> &nbsp;·&nbsp;
+  🔎 Experienced <strong>Manual Tester</strong> &nbsp;·&nbsp;
+  🤖 AI Enthusiast
 </p>
 
 <br/>
@@ -27,18 +28,42 @@
 <h2 align="center">🌸 About Me</h2>
 
 <p align="center">
-  I'm a CS student with hands-on experience as a <strong>Business Analyst collaborator</strong><br/>
-  on a real-world <strong>Smart Manufacturing</strong> project.<br/><br/>
-  My technical background in testing and frontend gives me a unique edge —<br/>
-  I bridge the gap between <em>business needs</em> and <em>technical execution</em>.
+I'm a <strong>Computer Science student</strong> with a well-rounded foundation — from algorithms and data structures to web development, mobile apps, software testing, and AI.<br/><br/>
+
+Throughout my studies, I've built systems end-to-end: designed databases, developed web & app interfaces, written test cases, trained ML models, and even built a <strong>smart chatbot</strong> as a research project.<br/><br/>
+
+🎯 <strong>Currently</strong>, I'm applying that technical depth as a <strong>Business Analyst collaborator</strong> in a real-world <strong>Smart Manufacturing</strong> project at a company — working on requirements, documentation, and cross-team collaboration.<br/><br/>
+
+🚀 <strong>My goal</strong> is to become a professional <strong>Business Analyst</strong> who bridges the gap between business needs and technical execution — grounded in a real understanding of how systems are actually built.<br/><br/>
+
+🌱 <strong>In the future</strong>, I aim to grow into a BA who doesn't just write requirements, but helps shape impactful products — with clarity, empathy, and technical credibility.
 </p>
+
+<br/>
+
+<h2 align="center">🎓 Computer Science Background</h2>
+
+<p align="center"><em>A full-spectrum CS education — not just theory, but real projects at every layer.</em></p>
+
+<div align="center">
+
+| Domain | What I Learned & Built |
+|:---|:---|
+| 💾 Data Structures & Algorithms | Core CS fundamentals — sorting, searching, complexity analysis |
+| 🗄️ Databases | Relational DB design, SQL queries, data modeling, normalization |
+| 🌐 Web Development | HTML, CSS, JavaScript — built responsive frontends |
+| 📱 Mobile App Development | Designed and developed mobile app interfaces |
+| 🧪 Software Testing | Manual testing, test case design, bug reporting, Selenium automation |
+| 🤖 Artificial Intelligence | ML concepts, model training — applied in a real chatbot research project |
+
+</div>
 
 <br/>
 
 <h2 align="center">💼 Real-World Experience</h2>
 
 <h3 align="center">Smart Manufacturing Project &nbsp;—&nbsp; Business Analyst Collaborator</h3>
-<p align="center"><em>Real industry project focused on intelligent manufacturing systems</em></p>
+<p align="center"><em>Real industry project at a company, focused on intelligent manufacturing systems</em></p>
 
 <div align="center">
 
@@ -52,6 +77,44 @@
 | Gap Analysis | Mapped As-Is vs To-Be processes to surface improvement areas |
 
 </div>
+
+<br/>
+
+<h2 align="center">🌟 Projects</h2>
+
+<br/>
+
+<h3 align="center">🤖 Smart Pharmacy Chatbot &nbsp;—&nbsp; Research Project</h3>
+
+<p align="center">
+  <a href="https://github.com/legiahan2705/Smart-pharmacy-chatbot">
+    <img src="https://img.shields.io/badge/Smart%20Pharmacy%20Chatbot-fbc2eb?style=for-the-badge&logo=github&logoColor=5a4a6a" />
+  </a>
+</p>
+
+<p align="center">
+  A scientific research project building an AI-powered chatbot for pharmacy assistance.<br/>
+  Combines natural language processing, domain-specific knowledge, and conversational UX<br/>
+  to help users look up drug information, dosage guidance, and pharmacy FAQs.<br/><br/>
+  Demonstrates AI application skills, research methodology, and the ability to<br/>
+  turn a real-world problem into a working intelligent system.
+</p>
+
+<br/>
+
+<h3 align="center">⚡ Automated API Performance Testing System</h3>
+
+<p align="center">
+  <a href="https://github.com/legiahan2705/AUTOMATED-API-PERFORMANCE-TESTING-SYSTEM">
+    <img src="https://img.shields.io/badge/Automated%20API%20Performance%20Testing%20System-a1c4fd?style=for-the-badge&logo=github&logoColor=5a4a6a" />
+  </a>
+</p>
+
+<p align="center">
+  Automated API performance testing pipeline using Postman + Newman with auto-generated reports.<br/>
+  Demonstrates systems thinking, technical depth, QA rigor, and documentation skills.<br/>
+  Built to catch performance bottlenecks early and integrate seamlessly into CI workflows.
+</p>
 
 <br/>
 
@@ -91,6 +154,7 @@
   <img src="https://img.shields.io/badge/Selenium-c2e9fb?style=flat-square&logo=selenium&logoColor=5a4a6a" />
   <img src="https://img.shields.io/badge/HTML5-f9d5e5?style=flat-square&logo=html5&logoColor=5a4a6a" />
   <img src="https://img.shields.io/badge/JavaScript-dce8fb?style=flat-square&logo=javascript&logoColor=5a4a6a" />
+  <img src="https://img.shields.io/badge/Python-d5e8fb?style=flat-square&logo=python&logoColor=5a4a6a" />
 </p>
 
 <br/>
@@ -98,8 +162,8 @@
 <h2 align="center">🔎 QA & Testing Background</h2>
 
 <p align="center">
-  <em>Testing roots sharpen my BA work — precise acceptance criteria<br/>
-  and seamless collaboration with QA teams.</em>
+  <em>Testing roots sharpen my BA work — I write precise acceptance criteria<br/>
+  and collaborate naturally with QA teams because I've been on that side too.</em>
 </p>
 
 <div align="center">
@@ -113,21 +177,6 @@
 | Newman — CI Pipeline | ●● |
 
 </div>
-
-<br/>
-
-<h2 align="center">🌟 Highlight Project</h2>
-
-<p align="center">
-  <a href="https://github.com/legiahan2705/AUTOMATED-API-PERFORMANCE-TESTING-SYSTEM">
-    <img src="https://img.shields.io/badge/Automated%20API%20Performance%20Testing%20System-fbc2eb?style=for-the-badge&logo=github&logoColor=5a4a6a" />
-  </a>
-</p>
-
-<p align="center">
-  Automated API performance testing with Postman + Newman and auto-generated reports.<br/>
-  Demonstrates systems thinking, technical depth, and documentation skills.
-</p>
 
 <br/>
 
