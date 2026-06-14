@@ -59,7 +59,7 @@ Throughout my studies, I've built systems end-to-end: designed databases, develo
 
 <br/>
 
-<h2 align="center">💼 Real-World Experience</h2>
+<h2 align="center">💼 Professional Experience</h2>
 
 <h3 align="center">Smart Manufacturing Project &nbsp;—&nbsp; Business Analyst Collaborator</h3>
 <p align="center"><em>Real industry project at a company, focused on intelligent manufacturing systems</em></p>
